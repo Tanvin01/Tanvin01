@@ -200,6 +200,18 @@ Doctor discovery + smart availability calendar, video consultations via Daily.co
 
 ---
 
+## 📈 Activity
+
+<!--START_SECTION:activity-->
+- 🚀 Pushed commits to [devhire](https://github.com/Tanvin01/devhire) — full-stack job board
+- 🚀 Pushed commits to [ai-resume](https://github.com/Tanvin01/ai-resume) — AI resume builder  
+- 🔭 Working on [authvault](https://github.com/Tanvin01/authvault) — WebAuthn passkey support
+- 🌱 Exploring OpenAI embeddings for semantic job matching in DevHire
+- 💬 Open to Senior / Lead Full Stack roles — remote & international
+<!--END_SECTION:activity-->
+
+---
+
 ## 💼 Open to Opportunities
 
 I'm actively looking for **Senior Full Stack Engineer** or **Lead Engineer** roles — remote-first or hybrid, India & international.
