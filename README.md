@@ -7,7 +7,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvin-kheni-56559622b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvinkhenicse@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanvin01)
 
@@ -15,58 +14,55 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 ```ts
 const tanvin = {
   role:       "Senior Full Stack Engineer",
   experience: "8+ years",
-  location:   "Surat, India 🇮🇳  (open to remote / relocation)",
+  location:   "Surat, India  (open to remote / relocation)",
   current:    "Sky Infoways",
 
-  expertise:  [
+  expertise: [
     "Scalable SaaS architecture",
     "Microservices & REST / GraphQL APIs",
     "Real-time systems (WebSocket, Socket.io)",
     "Cloud-native deployments (Docker, Kubernetes)",
-    "AI-powered product features (OpenAI, LangChain)",
+    "AI-powered product features (OpenAI GPT-4o)",
   ],
 
   stack: {
-    frontend:   ["React", "Next.js 14", "TypeScript", "Tailwind CSS", "Redux"],
-    backend:    ["Node.js", "Express", "Fastify", "GraphQL", "REST"],
-    databases:  ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
-    devops:     ["Docker", "Kubernetes", "GitHub Actions", "Vercel", "AWS"],
-    ai:         ["OpenAI API", "GPT-4o", "LangChain", "Embeddings"],
+    frontend:  ["React 18", "Next.js 14", "TypeScript", "Tailwind CSS", "Redux Toolkit"],
+    backend:   ["Node.js", "Express", "Fastify", "GraphQL", "REST APIs"],
+    databases: ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
+    devops:    ["Docker", "Kubernetes", "GitHub Actions", "Vercel", "AWS"],
+    ai:        ["OpenAI API", "GPT-4o", "Streaming", "Embeddings"],
   },
 
-  currentFocus: "Building AI-augmented full-stack products",
-  openTo:       "Senior / Lead roles — India & International",
+  openTo: "Senior / Lead Full Stack roles — India and International",
 };
 ```
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧑‍💼 [DevHire](https://github.com/Tanvin01/devhire)
-**Full-Stack Job Board Platform**
+### [DevHire](https://github.com/Tanvin01/devhire) — Job Board Platform
 
-Next.js 14 job board with role-based auth for recruiters & seekers, PostgreSQL + Prisma ORM, NextAuth.js OAuth, real-time job listings, Kanban application tracker, and Vercel deployment.
+Full-stack job board with role-based auth for recruiters and job seekers. NextAuth.js OAuth, PostgreSQL + Prisma ORM, Kanban application tracker, and email notifications.
 
-`Next.js 14` `PostgreSQL` `Prisma` `NextAuth` `TypeScript`
+`Next.js 14` `PostgreSQL` `Prisma` `NextAuth.js` `TypeScript`
 
 </td>
 <td width="50%">
 
-### 🛒 [ShopForge](https://github.com/Tanvin01/shopforge)
-**E-Commerce Platform with Stripe**
+### [ShopForge](https://github.com/Tanvin01/shopforge) — E-Commerce Platform
 
-Production-grade storefront with Stripe Checkout + Webhooks, inventory management, order fulfilment pipeline, admin dashboard, ISR product pages, and discount code engine.
+Production storefront with Stripe Checkout + Webhooks, inventory management, order fulfilment pipeline, admin dashboard with analytics, and ISR product pages.
 
 `Next.js 14` `Stripe` `Prisma` `PostgreSQL` `Zustand`
 
@@ -75,20 +71,18 @@ Production-grade storefront with Stripe Checkout + Webhooks, inventory managemen
 <tr>
 <td width="50%">
 
-### 💬 [ChatNest](https://github.com/Tanvin01/chatnest)
-**Real-Time Chat Application**
+### [ChatNest](https://github.com/Tanvin01/chatnest) — Real-Time Chat App
 
-Slack-inspired messaging with Socket.io WebSockets, Redis Pub/Sub for multi-server presence, channels + DMs, typing indicators, file sharing, emoji reactions, and read receipts.
+Slack-inspired messaging with Socket.io WebSockets, Redis Pub/Sub for multi-server presence, channels + DMs, typing indicators, file sharing, and emoji reactions.
 
-`React` `Socket.io` `Redis` `MongoDB` `TypeScript`
+`React 18` `Socket.io` `Redis` `MongoDB` `TypeScript`
 
 </td>
 <td width="50%">
 
-### 🤖 [AI Resume](https://github.com/Tanvin01/ai-resume)
-**AI-Powered Resume Builder**
+### [AI Resume](https://github.com/Tanvin01/ai-resume) — AI Resume Builder
 
-GPT-4o streaming to tailor bullet points to job descriptions, ATS compatibility scoring, server-side PDF export via Puppeteer, 8 templates, cover letter generation, and Supabase auth.
+GPT-4o streaming rewrites bullets to match job descriptions, ATS compatibility scoring, server-side PDF export via Puppeteer, 8 templates, and cover letter generation.
 
 `Next.js 14` `OpenAI GPT-4o` `Puppeteer` `Supabase`
 
@@ -97,42 +91,38 @@ GPT-4o streaming to tailor bullet points to job descriptions, ATS compatibility 
 <tr>
 <td width="50%">
 
-### 🔐 [AuthVault](https://github.com/Tanvin01/authvault)
-**Auth Microservice**
+### [AuthVault](https://github.com/Tanvin01/authvault) — Auth Microservice
 
-Drop-in auth service with Fastify, Argon2id password hashing, JWT access + refresh token rotation, TOTP-based MFA, Redis rate limiting, RBAC, audit logs, Docker + Kubernetes manifests.
+Drop-in auth service: Argon2id hashing, JWT access/refresh rotation, TOTP-based MFA, Redis rate limiting, RBAC, immutable audit logs, Docker + Kubernetes manifests.
 
 `Fastify` `JWT` `Argon2` `Redis` `Docker` `Kubernetes`
 
 </td>
 <td width="50%">
 
-### 💰 [SpendSense](https://github.com/Tanvin01/spendsense)
-**Personal Finance Tracker**
+### [SpendSense](https://github.com/Tanvin01/spendsense) — Finance Tracker
 
-Full-stack finance dashboard with Chart.js doughnut/line charts, category budgets, recurring transactions, month-over-month trends, multi-currency support, and CSV export.
+Full-stack finance dashboard with Chart.js doughnut/line charts, category budgets, recurring transactions, month-over-month trends, multi-currency, and CSV export.
 
-`React` `Node.js` `MongoDB` `Chart.js` `Zustand`
+`React 18` `Node.js` `MongoDB` `Chart.js` `Zustand`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📦 [LogiTrack](https://github.com/Tanvin01/logitrack)
-**Inventory & Logistics Dashboard**
+### [LogiTrack](https://github.com/Tanvin01/logitrack) — Logistics Dashboard
 
-Warehouse management system with real-time stock levels, low-stock alerts, multi-carrier shipment tracking, supplier purchase orders, RBAC, Recharts analytics, and Excel export.
+Warehouse management with real-time stock levels, low-stock alerts, multi-carrier shipment tracking, supplier purchase orders, RBAC, Recharts analytics, Excel export.
 
 `React` `Redux Toolkit` `Node.js` `MongoDB` `Recharts`
 
 </td>
 <td width="50%">
 
-### 🏥 [MediBook](https://github.com/Tanvin01/medibook)
-**Healthcare Appointment Platform**
+### [MediBook](https://github.com/Tanvin01/medibook) — Healthcare Platform
 
-Doctor discovery + smart availability calendar, video consultations via Daily.co, patient health portal, Supabase Row-Level Security for data privacy, SMS/email reminders.
+Doctor discovery with smart availability calendar, video consultations via Daily.co, patient health portal, Supabase Row-Level Security, and SMS/email reminders.
 
 `Next.js 14` `Supabase` `TypeScript` `Tailwind CSS`
 
@@ -142,7 +132,7 @@ Doctor discovery + smart availability calendar, video consultations via Daily.co
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -162,7 +152,7 @@ Doctor discovery + smart availability calendar, video consultations via Daily.co
 ![Fastify](https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)
 
-**Databases & Cloud**
+**Databases and Cloud**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -171,7 +161,7 @@ Doctor discovery + smart availability calendar, video consultations via Daily.co
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-**AI & Tools**
+**AI and Tools**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
@@ -183,7 +173,7 @@ Doctor discovery + smart availability calendar, video consultations via Daily.co
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -200,35 +190,25 @@ Doctor discovery + smart availability calendar, video consultations via Daily.co
 
 ---
 
-## 📈 Activity
+## Open to Opportunities
 
-<!--START_SECTION:activity-->
-- 🚀 Pushed commits to [devhire](https://github.com/Tanvin01/devhire) — full-stack job board
-- 🚀 Pushed commits to [ai-resume](https://github.com/Tanvin01/ai-resume) — AI resume builder  
-- 🔭 Working on [authvault](https://github.com/Tanvin01/authvault) — WebAuthn passkey support
-- 🌱 Exploring OpenAI embeddings for semantic job matching in DevHire
-- 💬 Open to Senior / Lead Full Stack roles — remote & international
-<!--END_SECTION:activity-->
-
----
-
-## 💼 Open to Opportunities
-
-I'm actively looking for **Senior Full Stack Engineer** or **Lead Engineer** roles — remote-first or hybrid, India & international.
+I am actively looking for **Senior Full Stack Engineer** or **Lead Engineer** roles — remote-first or hybrid, India and international.
 
 **What I bring:**
 - 8+ years delivering production systems at scale
-- End-to-end ownership from architecture → deployment
+- End-to-end ownership from architecture to deployment
 - Strong TypeScript, React/Next.js, Node.js, PostgreSQL/MongoDB
 - Experience with AI integration, real-time systems, and microservices
-- Clean code, great docs, and a bias for shipping
+- Clean code, thorough documentation, and a bias for shipping
 
-📬 **Let's talk:** [tanvinkhenicse@gmail.com](mailto:tanvinkhenicse@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tanvin-kheni-56559622b)
+**Contact:** [tanvinkhenicse@gmail.com](mailto:tanvinkhenicse@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/tanvin-kheni-56559622b)
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+
+*Note: The Tanvin01 repository is a special GitHub repository — its README.md is displayed automatically on the profile page.*
 
 </div>
